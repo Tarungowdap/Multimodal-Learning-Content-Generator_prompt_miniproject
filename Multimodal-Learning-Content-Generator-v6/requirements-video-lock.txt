@@ -1,0 +1,26 @@
+# Exact versions tested for the local video model (installed after PyTorch by setup_local_video.bat)
+accelerate==1.16.0
+annotated-doc==0.0.7
+diffusers==0.43.0
+filelock==4.2.12
+fsspec==2026.9.0
+hf-xet==1.8.0
+httpcore2==2.16.2
+httpx2==2.16.2
+huggingface_hub==2.4.0
+importlib_metadata==10.2.0
+lazy-importer==0.1.0
+markdown-it-py==4.3.0
+mdurl==0.1.2
+psutil==7.2.2
+PyYAML==6.0.3
+regex==2026.11.19
+rich==15.0.0
+safetensors==0.8.0
+shellingham==1.5.4
+tokenizers==0.23.3
+tqdm==4.70.1
+transformers==5.23.0
+truststore==0.10.5
+typer==0.29.2
+zipp==4.1.2

@@ -1,0 +1,70 @@
+{
+  "topic": "photosynthesis",
+  "questions": [
+    {
+      "question": "Fill in the blank: Photosynthesis is the process by which green plants, algae and some _____ convert light energy into chemical energy stored in glucose.",
+      "options": [
+        "limiting",
+        "molecule",
+        "involved",
+        "bacteria"
+      ],
+      "answer_index": 3,
+      "explanation": "The notes state: \"Photosynthesis is the process by which green plants, algae and some bacteria convert light energy into chemical energy stored in glucose.\"",
+      "source_quote": "Photosynthesis is the process by which green plants, algae and some bacteria convert light energy into chemical energy stored in glucose.",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Fill in the blank: The overall _____ for photosynthesis is: six molecules of carbon dioxide plus six molecules of water, in the presence of light, produce one molecule of glucose and six molecules of oxygen.",
+      "options": [
+        "equation",
+        "chemical",
+        "concentration",
+        "respiration"
+      ],
+      "answer_index": 0,
+      "explanation": "The notes state: \"The overall equation for photosynthesis is: six molecules of carbon dioxide plus six molecules of water, in the presence of light, produce o\"",
+      "source_quote": "The overall equation for photosynthesis is: six molecules of carbon dioxide plus six molecules of water, in the presence of light, produce one molecule of glucose and six molecules of oxygen.",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Fill in the blank: The Calvin cycle uses ATP and NADPH to fix carbon dioxide into glucose, and it does not require light _____.",
+      "options": [
+        "directly",
+        "mainly",
+        "nearly",
+        "chemical"
+      ],
+      "answer_index": 0,
+      "explanation": "The notes state: \"The Calvin cycle uses ATP and NADPH to fix carbon dioxide into glucose, and it does not require light directly.\"",
+      "source_quote": "The Calvin cycle uses ATP and NADPH to fix carbon dioxide into glucose, and it does not require light directly.",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Fill in the blank: RuBisCO is the enzyme that _____ carbon dioxide during the Calvin cycle.",
+      "options": [
+        "produces",
+        "increases",
+        "enzymes",
+        "captures"
+      ],
+      "answer_index": 3,
+      "explanation": "The notes state: \"RuBisCO is the enzyme that captures carbon dioxide during the Calvin cycle.\"",
+      "source_quote": "RuBisCO is the enzyme that captures carbon dioxide during the Calvin cycle.",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Fill in the blank: Here, light energy splits water molecules, _____ oxygen and producing the energy carriers ATP and NADPH.",
+      "options": [
+        "releasing",
+        "increases",
+        "dependent",
+        "limiting"
+      ],
+      "answer_index": 0,
+      "explanation": "The notes state: \"Here, light energy splits water molecules, releasing oxygen and producing the energy carriers ATP and NADPH.\"",
+      "source_quote": "Here, light energy splits water molecules, releasing oxygen and producing the energy carriers ATP and NADPH.",
+      "difficulty": "easy"
+    }
+  ]
+}
