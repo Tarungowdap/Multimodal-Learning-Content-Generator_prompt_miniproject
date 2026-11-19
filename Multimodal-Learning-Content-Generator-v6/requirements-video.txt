@@ -1,0 +1,7 @@
+# Local text-to-video (AnimateDiff-Lightning). PyTorch itself is installed by setup_local_video.bat
+# (CUDA build when an NVIDIA GPU is present, CPU build otherwise).
+diffusers>=0.43,<1
+transformers>=4.56
+accelerate>=1.0
+safetensors>=0.4
+huggingface_hub>=1.32
